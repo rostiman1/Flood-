@@ -1,0 +1,5 @@
+rootProject.name = "FloodIt"
+include ':lib'
+include ':logic'
+include ':testlib'
+include ':appcompose'
